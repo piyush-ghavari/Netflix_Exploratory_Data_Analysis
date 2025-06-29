@@ -2,15 +2,12 @@
 
 This project performs an end-to-end **Exploratory Data Analysis (EDA)** on the Netflix Movies and TV Shows dataset using Python in Jupyter Notebook. The goal is to uncover hidden patterns, understand viewer preferences, clean the data, and provide recommendations for content strategy.
 
----
 
 ## 📂 Dataset Overview
 
 - **Dataset**: `netflix_titles.csv` from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - **Records**: ~6,000+
 - **Columns**: `show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
-
----
 
 ## 🛠️ Tools & Libraries Used
 
@@ -110,4 +107,18 @@ This project performs an end-to-end **Exploratory Data Analysis (EDA)** on the N
 ---
 
 ## 📁 Project Structure
+
+Netflix-EDA-Project/
+│
+├── Netflix_EDA.ipynb # Main notebook
+├── netflix_titles.csv # Dataset
+├── images/ # Folder with all 21 graphs
+├── README.md # Project overview file
+
+---
+
+## ✅ Conclusion
+
+This Netflix EDA project provides meaningful insights into viewer preferences, content trends, and strategies for optimizing Netflix’s global catalog. It showcases strong data cleaning, visualization, and storytelling capabilities — all essential for a data analyst role.
+
 
